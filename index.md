@@ -1,3 +1,7 @@
+---
+title: Jocky – Privacy Policy
+---
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
